@@ -1,3 +1,4 @@
+*.sqlite3
 core.Microsoft*
 env.py
 __pycache__/
