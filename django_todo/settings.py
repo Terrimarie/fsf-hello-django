@@ -26,7 +26,7 @@ SECRET_KEY = '7!zx3ls0@(m7px1t*e)0^wjd%vxg99ik%c@8c%_4+fjqj#@x=^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://git.heroku.com/tee-django-todo-app.git']
 
 
 # Application definition
